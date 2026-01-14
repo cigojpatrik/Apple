@@ -33,7 +33,7 @@ It is **manually drawn using Bézier curves (`bezierCurveTo`) on an HTML Canvas*
   </tr>
   <tr>
     <td align="center"><img src="img/bezier.png" width="87px" height="79px"></td>
-    <td align="center"><img src="img/logo_svg.svg"></td>
+    <td align="center"><img src="img/logosvg.svg"></td>
     <td align="center"><img src="img/apple_png.png" width="100px" height="90px"></td>
   </tr>
 </table>
