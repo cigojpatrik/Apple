@@ -25,8 +25,18 @@ A key highlight of this project is a **custom Apple logo created manually using 
 The Apple logo displayed on the page is **not an image or SVG file**.  
 It is **manually drawn using Bézier curves (`bezierCurveTo`) on an HTML Canvas**, demonstrating:
 
-## Canvas
-<img src="img/bezier.png">
+<table>
+  <tr>
+    <td align="center"><strong>Bezir</strong></td>
+    <td align="center"><strong>SVG</strong></td>
+    <td align="center"><strong>PNG</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="img/bezier.png" width="87px" height="79px"></td>
+    <td align="center"><img src="img/logo_svg.xml"></td>
+    <td align="center"><img src="img/apple_png.png" width="100px" height="90px"></td>
+  </tr>
+</table>
 
 
 The logo color can be changed in real time using an interactive color picker.
