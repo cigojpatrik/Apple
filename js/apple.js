@@ -59,3 +59,16 @@ colorPicker.addEventListener("input", () => {
   logo.setAttribute("fill", colorPicker.value);
 
 });
+document.getElementById("iphone14pro-learn").addEventListener("click", function (e) {
+  e.preventDefault();
+
+  Swal.fire({
+    title: 'Patrik Cigoj',
+    icon: 'info',
+    iconColor: '#000000',      // črna info ikona
+    confirmButtonText: 'OK',
+    confirmButtonColor: '#000000', // črn OK gumb
+    color: '#000000'           // črna barva besedila
+  });
+});
+
