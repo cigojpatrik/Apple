@@ -1,4 +1,4 @@
-# 🍎 Apple Website Clone
+# Apple Website Clone
 
 This project is a **frontend clone of the Apple website**, built using **HTML, CSS, and Vanilla JavaScript**.  
 A key highlight of this project is a **custom Apple logo created manually using Bézier curves and rendered on an HTML Canvas**.
