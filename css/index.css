@@ -354,6 +354,24 @@ footer {
     font-size: 13px;
     color: rgb(71, 71, 71);
 }
+.apple-logo-animate {
+  opacity: 0;
+  transform: scale(0.9);
+  animation: appleFadeIn 1.2s ease-out forwards;
+  animation-delay: 0.5s;
+  transition: transform 0.3s ease;
+}
+
+@keyframes appleFadeIn {
+  to {
+    opacity: 1;
+    
+  }
+}
+
+
+
+
 
 
 
