@@ -16,8 +16,8 @@ A key highlight of this project is a **custom Apple logo created manually using 
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla JS)**
-- **HTML Canvas API**
+- **JavaScript**
+- **HTML Canvas**
 - **SVG & Bézier Curves**
 
 ## 🎨 Custom Canvas Logo (Bezier Curves)
